@@ -7,5 +7,7 @@ Learning Rust Programming Language
 - `cargo build`
 - `cargo build --release`
 - `cargo test`
+- `cargo clean`
+- `cargo fix`
 - `cargo fmt` // auto format the code
 - `cargo fmt --all -- --check` // exit with an error code if the codes not formatted correctly
