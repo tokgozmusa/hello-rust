@@ -2,7 +2,8 @@
 Learning Rust Programming Language
 
 - `curl https://sh.rustup.rs -sSf | sh` // install Rust using rustup
-- `https://crates.io/` - The package registry for Rust
+- `https://crates.io/` // the package registry for Rust
+- `cargo new hello-rust` // create a project
 - `cargo run`
 - `cargo build`
 - `cargo build --release`
